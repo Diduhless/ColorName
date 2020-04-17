@@ -1,6 +1,7 @@
 main: ColorName\ColorName
 name: ColorName
 author: Didah
+description: A plugin that allows players to change his nametag color
 website: twitter.com/Diduhless
 version: 0.0.1
 api: [3.0.0]
